@@ -1,0 +1,28 @@
+{
+  "name": "simplejs_mathproject",
+  "version": "1.0.0",
+  "description": "simple math javascript project for multiplication, addition and substraction of two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodvr81/simpleJS_MathProject.git"
+  },
+  "keywords": [
+    "javascript",
+    "simple",
+    "math",
+    "project"
+  ],
+  "author": "vinod vukkalam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinodvr81/simpleJS_MathProject/issues"
+  },
+  "homepage": "https://github.com/vinodvr81/simpleJS_MathProject#readme",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
